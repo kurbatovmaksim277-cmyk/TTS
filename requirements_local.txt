@@ -1,0 +1,8 @@
+# PyTorch installs separately in install_windows.ps1 because CUDA build depends on GPU.
+faster-qwen3-tts>=0.2.4
+soundfile>=0.12.1
+sounddevice>=0.4.6
+numpy>=1.26.0
+huggingface_hub[hf_xet]>=0.24.0
+hf_xet>=1.1.0
+requests>=2.31.0
